@@ -1,6 +1,6 @@
 # AI Judgment Layer: The Foundation for Trustworthy AI
 
-**HJS Protocol White Paper** | v1.0 · March 2026
+**JEP Protocol White Paper** | v1.0 · March 2026
 
 <p align="center">
     <a href="https://github.com/hjs-protocol/whitepaper">
